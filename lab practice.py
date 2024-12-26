@@ -1,4 +1,4 @@
-#question 1, Write a program that will check the given string is palindrome word or not.
+#question 01, Write a program that will check the given string is palindrome word or not.
 
 # def is_palindrome(word):
 #     word1 = word.replace(" ", "").lower()
